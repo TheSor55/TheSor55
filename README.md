@@ -12,7 +12,7 @@ I build practical digital tools and consulting prototypes for Thai SME factories
 
 [FutureGreen Website](https://thesor55.github.io/futuregreen-consulting/) | [Digital Tools](https://thesor55.github.io/futuregreen-consulting/#digital-tools) | [Knowledge Hub](https://thesor55.github.io/futuregreen-consulting/knowledge.html)
 
-![FutureGreen Consulting](https://raw.githubusercontent.com/TheSor55/futuregreen-consulting/main/assets/screenshots/home.png)
+<img src="https://raw.githubusercontent.com/TheSor55/futuregreen-consulting/main/assets/screenshots/home.png" alt="FutureGreen Consulting website screenshot" width="860">
 
 ## Core Expertise
 
@@ -66,9 +66,5 @@ They may not include production features such as authentication, database securi
 
 - Website: [FutureGreen Consulting](https://thesor55.github.io/futuregreen-consulting/)
 - Digital Tools: [FutureGreen Digital Tools & Prototype](https://thesor55.github.io/futuregreen-consulting/#digital-tools)
-- LINE: `add LINE contact here`
-- Email: `add email here`
-
-## GitHub Bio Suggestion
-
-`Industrial Sustainability & Digital Factory Consultant | ISO, ESG, Carbon Footprint, Factory Dashboard, Audit Systems, and AI-assisted consulting tools`
+- LINE: [Chat on LINE](https://line.me/R/ti/p/@137xvimh)
+- Email: [suwansor@gmail.com](mailto:suwansor@gmail.com)
