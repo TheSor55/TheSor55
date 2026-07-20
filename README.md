@@ -79,4 +79,4 @@ They may not include production features such as authentication, database securi
 - Digital Tools: [FutureGreen Digital Tools & Prototype](https://futuregreennet.com/#digital-tools)
 - Knowledge Hub: [FutureGreen Knowledge Hub](https://futuregreennet.com/knowledge.html)
 - LINE: [Chat on LINE](https://line.me/R/ti/p/@137xvimh)
-- Email: [suwansor@gmail.com](mailto:suwansor@gmail.com)
+- Email: [sorawit@futuregreennet.com](mailto:sorawit@futuregreennet.com)
