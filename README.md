@@ -34,6 +34,7 @@ I build practical digital tools and consulting prototypes for Thai SME factories
 | [`esg-carbon-report-assistant`](https://github.com/TheSor55/esg-carbon-report-assistant) | ESG and carbon report assistant for organizing activity data, evidence, and sustainability documentation | [View demo](https://thesor55.github.io/esg-carbon-report-assistant/) |
 | [`Carbon-Free-Journey-Calculator`](https://github.com/TheSor55/Carbon-Free-Journey-Calculator) | Simple travel carbon calculator for awareness, low-carbon choices, and carbon reduction communication | [View demo](https://thesor55.github.io/Carbon-Free-Journey-Calculator/) |
 | [`aql-sampling-dashboard-`](https://github.com/TheSor55/aql-sampling-dashboard-) | QC / AQL sampling calculator for sample size and Accept / Reject decision support | [View demo](https://thesor55.github.io/aql-sampling-dashboard-/) |
+| `spc-quality-analytics` | SPC Quality Analytics for Android, iPhone & iPad shopfloor inspection, X-bar R control charts, Cpk/Ppk | [Request Mobile Trial](https://futuregreennet.com/#contact) |
 
 ## Practical Experience
 
