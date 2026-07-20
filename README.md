@@ -10,7 +10,7 @@ ISO | ESG | Carbon Footprint | CFO | CFP | Audit Checklist | Factory Dashboard |
 
 I build practical digital tools and consulting prototypes for Thai SME factories, helping ISO, ESG, Carbon Footprint, audit readiness, factory dashboards, and AI-assisted workflows become easier to understand, implement, and sustain.
 
-[FutureGreen Website](https://thesor55.github.io/futuregreen-consulting/) | [Digital Tools](https://thesor55.github.io/futuregreen-consulting/#digital-tools) | [Knowledge Hub](https://thesor55.github.io/futuregreen-consulting/knowledge.html)
+[FutureGreen Website](https://futuregreennet.com/) | [Digital Tools](https://futuregreennet.com/#digital-tools) | [Knowledge Hub](https://futuregreennet.com/knowledge.html)
 
 <img src="https://raw.githubusercontent.com/TheSor55/futuregreen-consulting/main/assets/screenshots/home.png" alt="FutureGreen Consulting website screenshot" width="860">
 
@@ -28,7 +28,7 @@ I build practical digital tools and consulting prototypes for Thai SME factories
 
 | Project | What It Is | Live Demo |
 |---|---|---|
-| [`futuregreen-consulting`](https://github.com/TheSor55/futuregreen-consulting) | Main FutureGreen website and consulting profile for ISO, ESG, Carbon Footprint, CFO, CFP, and factory sustainability services | [Open website](https://thesor55.github.io/futuregreen-consulting/) |
+| [`futuregreen-consulting`](https://github.com/TheSor55/futuregreen-consulting) | Main FutureGreen website and consulting profile for ISO, ESG, Carbon Footprint, CFO, CFP, and factory sustainability services | [Open website](https://futuregreennet.com/) |
 | [`industrial-ai-dashboard`](https://github.com/TheSor55/industrial-ai-dashboard) | Factory dashboard prototype for OEE, downtime, scrap, energy use, and carbon visibility | [View demo](https://thesor55.github.io/industrial-ai-dashboard/) |
 | [`gp-audit-checklist`](https://github.com/TheSor55/gp-audit-checklist) | Interactive Green Production audit checklist for self-assessment, internal audits, and real-time scoring | [View demo](https://thesor55.github.io/gp-audit-checklist/) |
 | [`esg-carbon-report-assistant`](https://github.com/TheSor55/esg-carbon-report-assistant) | ESG and carbon report assistant for organizing activity data, evidence, and sustainability documentation | [View demo](https://thesor55.github.io/esg-carbon-report-assistant/) |
@@ -75,8 +75,8 @@ They may not include production features such as authentication, database securi
 
 ## Contact
 
-- Website: [FutureGreen Consulting](https://thesor55.github.io/futuregreen-consulting/)
-- Digital Tools: [FutureGreen Digital Tools & Prototype](https://thesor55.github.io/futuregreen-consulting/#digital-tools)
-- Knowledge Hub: [FutureGreen Knowledge Hub](https://thesor55.github.io/futuregreen-consulting/knowledge.html)
+- Website: [FutureGreen Consulting](https://futuregreennet.com/)
+- Digital Tools: [FutureGreen Digital Tools & Prototype](https://futuregreennet.com/#digital-tools)
+- Knowledge Hub: [FutureGreen Knowledge Hub](https://futuregreennet.com/knowledge.html)
 - LINE: [Chat on LINE](https://line.me/R/ti/p/@137xvimh)
 - Email: [suwansor@gmail.com](mailto:suwansor@gmail.com)
